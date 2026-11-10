@@ -202,4 +202,4 @@ This repository serves as the official landing page for Expeditions: A MudRunner
 **Get the most recent version of Expeditions: A MudRunner Game today!**
 
 ---
-**Last updated:** 2026-11-10 02:27:37 UTC
+**Last updated:** 2026-11-10 10:35:26 UTC
